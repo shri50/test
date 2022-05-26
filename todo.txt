@@ -8,3 +8,13 @@ My ML Work
 6. Model training 
 7. Evaluation 
 8. deployment 
+
+
+
+##########################
+
+this is after the creating branch 
+
+1. Create env using anaconda 
+2. create git repo
+then all data science project steps 
